@@ -1,0 +1,6 @@
+C:\Users\79994\Desktop\прога\LinqArray\LinqArray\bin\Debug\LinqArray.dll
+C:\Users\79994\Desktop\прога\LinqArray\LinqArray\bin\Debug\LinqArray.pdb
+C:\Users\79994\Desktop\прога\LinqArray\LinqArray\obj\Debug\LinqArray.csproj.AssemblyReference.cache
+C:\Users\79994\Desktop\прога\LinqArray\LinqArray\obj\Debug\LinqArray.csproj.CoreCompileInputs.cache
+C:\Users\79994\Desktop\прога\LinqArray\LinqArray\obj\Debug\LinqArray.dll
+C:\Users\79994\Desktop\прога\LinqArray\LinqArray\obj\Debug\LinqArray.pdb

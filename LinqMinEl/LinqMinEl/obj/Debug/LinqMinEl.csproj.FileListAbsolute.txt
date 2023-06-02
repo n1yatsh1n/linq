@@ -1,0 +1,6 @@
+C:\Users\79994\Desktop\прога\LinqMinEl\LinqMinEl\bin\Debug\LinqMinEl.dll
+C:\Users\79994\Desktop\прога\LinqMinEl\LinqMinEl\bin\Debug\LinqMinEl.pdb
+C:\Users\79994\Desktop\прога\LinqMinEl\LinqMinEl\obj\Debug\LinqMinEl.csproj.AssemblyReference.cache
+C:\Users\79994\Desktop\прога\LinqMinEl\LinqMinEl\obj\Debug\LinqMinEl.csproj.CoreCompileInputs.cache
+C:\Users\79994\Desktop\прога\LinqMinEl\LinqMinEl\obj\Debug\LinqMinEl.dll
+C:\Users\79994\Desktop\прога\LinqMinEl\LinqMinEl\obj\Debug\LinqMinEl.pdb
